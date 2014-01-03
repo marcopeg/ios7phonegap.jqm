@@ -1,6 +1,6 @@
 /**
- * Shopping List
- * v1.0.0
+ * ios7phonegap.jqm
+ * v0.1.0
  */
 
 ;(function($) {
