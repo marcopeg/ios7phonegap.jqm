@@ -1,5 +1,5 @@
-ios7phonegap.jqm | jQueryMobile Plugin
-======================================
+ios7phonegap.jqm for jQueryMobile
+=================================
 
 this plugin fix a very odd behavior of _jQueryMobile_ when runned under _iOS7_ with _PhoneGap_.
 
